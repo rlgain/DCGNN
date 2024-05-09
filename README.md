@@ -14,5 +14,5 @@ This is a PyTorch implementation of the paper: “Causality Meets Temporality: I
 ## How to train the model
 1. Run `pattern_prototype_recognition.ipynb`.
 This script would recognize pattern prototypes of all directed stock pairs.
-2. Run `PA-TMM.ipynb`.
+2. Run `main.ipynb`.
 This script would build a DCGNN model, and then train and evaluate it.
